@@ -28,14 +28,19 @@ body {
 img {
   display: block;
   width: 100%;
+  border-radius: 10px;
 }
 
 .ontop{
-	position: relativee;
-	top:30em;
-	right: 0;
-	left:0;
-	bottom: 3em;
+	padding: 1em;
+	position: absolute;
+	bottom: 0;
+	color:rgba(255,255,255,1);
+	font-family: serif;
+}
+
+.banner {
+position: relative;
 }
 
 .caps{
@@ -49,8 +54,11 @@ img {
 	overflow: hidden;
 	position: relative;
 	width: 33%;
-	padding:
 }
 
-	
+.section 1{
+	border-right: 1px solid lightgrey;
+}
+
+
 	
