@@ -29,3 +29,28 @@ img {
   display: block;
   width: 100%;
 }
+
+.ontop{
+	position: relativee;
+	top:30em;
+	right: 0;
+	left:0;
+	bottom: 3em;
+}
+
+.caps{
+	text-transform:uppercase;
+	color: grey;
+	font-size: 0.75em;
+}
+
+.section{
+	float: left;
+	overflow: hidden;
+	position: relative;
+	width: 33%;
+	padding:
+}
+
+	
+	
